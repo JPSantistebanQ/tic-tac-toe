@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://jpsantistebanq.github.io/tic-tac-toe/static/css/main.b8c142ab.css",
-    "main.js": "https://jpsantistebanq.github.io/tic-tac-toe/static/js/main.09118e15.js",
+    "main.js": "https://jpsantistebanq.github.io/tic-tac-toe/static/js/main.46151578.js",
     "static/js/787.393238a3.chunk.js": "https://jpsantistebanq.github.io/tic-tac-toe/static/js/787.393238a3.chunk.js",
     "index.html": "https://jpsantistebanq.github.io/tic-tac-toe/index.html",
     "main.b8c142ab.css.map": "https://jpsantistebanq.github.io/tic-tac-toe/static/css/main.b8c142ab.css.map",
-    "main.09118e15.js.map": "https://jpsantistebanq.github.io/tic-tac-toe/static/js/main.09118e15.js.map",
+    "main.46151578.js.map": "https://jpsantistebanq.github.io/tic-tac-toe/static/js/main.46151578.js.map",
     "787.393238a3.chunk.js.map": "https://jpsantistebanq.github.io/tic-tac-toe/static/js/787.393238a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8c142ab.css",
-    "static/js/main.09118e15.js"
+    "static/js/main.46151578.js"
   ]
 }
